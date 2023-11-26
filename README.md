@@ -1,2 +1,2 @@
 # Web Design-Project
-Simple WPF application that simulates personal fitness trener
+Simple HTML, CSS and JS application that simulates frontend part of website for hotel
